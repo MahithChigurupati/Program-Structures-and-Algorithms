@@ -1,4 +1,5 @@
 # Program-Structures-and-Algorithms
+
 A Repo for CSYE 6225 Coursework and Assignments
 
 <strong>Instructor:</strong> Jagadeesh VasudevMurthy
@@ -12,5 +13,14 @@ A Repo for CSYE 6225 Coursework and Assignments
 Python <br>
 Jupyter Notebook<br>
 
-## Assignment I: 
+## Assignment I:
+
 Implement Int Class in Python following Object Oriented Programming principles
+
+## Assignment II:
+
+Leetcode 238. Product of Array Except Self
+
+## Assignment III:
+
+Leectcode 34. Find First and Last Position of Element in Sorted Array
