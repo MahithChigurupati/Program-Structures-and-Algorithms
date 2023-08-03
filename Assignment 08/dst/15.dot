@@ -1,9 +1,0 @@
-digraph g {
-	 edge [color=red]
-	 A -> B
-	 B -> C
-	 E -> F
-	 E -> D
-	 D -> B
-	 C -> E
-}
